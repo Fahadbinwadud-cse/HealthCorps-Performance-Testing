@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680676863194,3866,HealthCorps Home page,301,Moved Permanently,Thread Group 1-26,text,true,,274,117,100,100,https://healthcorps.org/,3858,0,2662
+1680676863498,3562,HealthCorps Home page,301,Moved Permanently,Thread Group 1-69,text,true,,274,117,100,100,https://healthcorps.org/,3554,0,2358
+1680676863263,3849,HealthCorps Home page,301,Moved Permanently,Thread Group 1-39,text,true,,274,117,100,100,https://healthcorps.org/,3849,0,2592
+1680676863423,3741,HealthCorps Home page,301,Moved Permanently,Thread Group 1-56,text,true,,274,117,100,100,https://healthcorps.org/,3741,0,2431
+1680676863620,3551,HealthCorps Home page,301,Moved Permanently,Thread Group 1-82,text,true,,274,117,100,100,https://healthcorps.org/,3551,0,2236
+1680676863292,4043,HealthCorps Home page,301,Moved Permanently,Thread Group 1-42,text,true,,274,117,100,100,https://healthcorps.org/,4043,0,2672
+1680676863786,3690,HealthCorps Home page,301,Moved Permanently,Thread Group 1-99,text,true,,274,117,100,100,https://healthcorps.org/,3690,0,2185
+1680676863161,4338,HealthCorps Home page,301,Moved Permanently,Thread Group 1-17,text,true,,274,117,100,100,https://healthcorps.org/,4338,0,2819
+1680676863244,4325,HealthCorps Home page,301,Moved Permanently,Thread Group 1-37,text,true,,274,117,100,100,https://healthcorps.org/,4325,0,2743
+1680676863422,4198,HealthCorps Home page,301,Moved Permanently,Thread Group 1-61,text,true,,274,117,100,100,https://healthcorps.org/,4198,0,2589
+1680676863757,3950,HealthCorps Home page,301,Moved Permanently,Thread Group 1-96,text,true,,274,117,100,100,https://healthcorps.org/,3950,0,2227
+1680676863553,4222,HealthCorps Home page,301,Moved Permanently,Thread Group 1-75,text,true,,274,117,100,100,https://healthcorps.org/,4222,0,2534
+1680676863640,4155,HealthCorps Home page,301,Moved Permanently,Thread Group 1-84,text,true,,274,117,100,100,https://healthcorps.org/,4155,0,2416
+1680676863449,4420,HealthCorps Home page,301,Moved Permanently,Thread Group 1-64,text,true,,274,117,100,100,https://healthcorps.org/,4420,0,2609
+1680676863650,4219,HealthCorps Home page,301,Moved Permanently,Thread Group 1-85,text,true,,274,117,100,100,https://healthcorps.org/,4219,0,2349
+1680676863441,4428,HealthCorps Home page,301,Moved Permanently,Thread Group 1-58,text,true,,274,117,100,100,https://healthcorps.org/,4428,0,2573
+1680676863151,4725,HealthCorps Home page,301,Moved Permanently,Thread Group 1-2,text,true,,274,117,100,100,https://healthcorps.org/,4725,0,2926
+1680676863673,4217,HealthCorps Home page,301,Moved Permanently,Thread Group 1-87,text,true,,274,117,100,100,https://healthcorps.org/,4217,0,2359
+1680676863682,4215,HealthCorps Home page,301,Moved Permanently,Thread Group 1-88,text,true,,274,117,100,100,https://healthcorps.org/,4215,0,2316
+1680676863731,4187,HealthCorps Home page,301,Moved Permanently,Thread Group 1-90,text,true,,274,117,100,100,https://healthcorps.org/,4187,0,2318
+1680676863767,4151,HealthCorps Home page,301,Moved Permanently,Thread Group 1-97,text,true,,274,117,100,100,https://healthcorps.org/,4151,0,2235
+1680676863222,4708,HealthCorps Home page,301,Moved Permanently,Thread Group 1-31,text,true,,274,117,100,100,https://healthcorps.org/,4708,0,2812
+1680676863375,4560,HealthCorps Home page,301,Moved Permanently,Thread Group 1-51,text,true,,274,117,100,100,https://healthcorps.org/,4560,0,2677
+1680676863226,4751,HealthCorps Home page,301,Moved Permanently,Thread Group 1-34,text,true,,274,117,100,100,https://healthcorps.org/,4751,0,2801
+1680676863162,4827,HealthCorps Home page,301,Moved Permanently,Thread Group 1-8,text,true,,274,117,100,100,https://healthcorps.org/,4827,0,2844
+1680676863335,4668,HealthCorps Home page,301,Moved Permanently,Thread Group 1-47,text,true,,274,117,100,100,https://healthcorps.org/,4668,0,2679
+1680676863165,4852,HealthCorps Home page,301,Moved Permanently,Thread Group 1-18,text,true,,274,117,100,100,https://healthcorps.org/,4852,0,2847
+1680676863467,4563,HealthCorps Home page,301,Moved Permanently,Thread Group 1-66,text,true,,274,117,100,100,https://healthcorps.org/,4563,0,2565
+1680676863188,4848,HealthCorps Home page,301,Moved Permanently,Thread Group 1-24,text,true,,274,117,100,100,https://healthcorps.org/,4848,0,2802
+1680676863163,4894,HealthCorps Home page,301,Moved Permanently,Thread Group 1-11,text,true,,274,117,100,100,https://healthcorps.org/,4894,0,2884
+1680676863733,4354,HealthCorps Home page,301,Moved Permanently,Thread Group 1-93,text,true,,274,117,100,100,https://healthcorps.org/,4354,0,2355
+1680676863300,4799,HealthCorps Home page,301,Moved Permanently,Thread Group 1-43,text,true,,274,117,100,100,https://healthcorps.org/,4799,0,2765
+1680676863460,4658,HealthCorps Home page,301,Moved Permanently,Thread Group 1-60,text,true,,274,117,100,100,https://healthcorps.org/,4658,0,2595
+1680676863162,4973,HealthCorps Home page,301,Moved Permanently,Thread Group 1-19,text,true,,274,117,100,100,https://healthcorps.org/,4972,0,2875
+1680676863273,4962,HealthCorps Home page,301,Moved Permanently,Thread Group 1-40,text,true,,274,117,100,100,https://healthcorps.org/,4962,0,2813
+1680676863515,4753,HealthCorps Home page,301,Moved Permanently,Thread Group 1-71,text,true,,274,117,100,100,https://healthcorps.org/,4753,0,2553
+1680676863747,4650,HealthCorps Home page,301,Moved Permanently,Thread Group 1-95,text,true,,274,117,100,100,https://healthcorps.org/,4650,0,2338
+1680676863756,4658,HealthCorps Home page,301,Moved Permanently,Thread Group 1-94,text,true,,274,117,100,100,https://healthcorps.org/,4658,0,2350
+1680676863166,5414,HealthCorps Home page,301,Moved Permanently,Thread Group 1-4,text,true,,274,117,100,100,https://healthcorps.org/,5414,0,2921
+1680676863432,5160,HealthCorps Home page,301,Moved Permanently,Thread Group 1-62,text,true,,274,117,100,100,https://healthcorps.org/,5160,0,2658
+1680676863165,5426,HealthCorps Home page,301,Moved Permanently,Thread Group 1-16,text,true,,274,117,100,100,https://healthcorps.org/,5426,0,2941
+1680676863545,5181,HealthCorps Home page,301,Moved Permanently,Thread Group 1-74,text,true,,274,117,100,100,https://healthcorps.org/,5181,0,2548
+1680676863582,5235,HealthCorps Home page,301,Moved Permanently,Thread Group 1-78,text,true,,274,117,100,100,https://healthcorps.org/,5235,0,2535
+1680676863385,5432,HealthCorps Home page,301,Moved Permanently,Thread Group 1-52,text,true,,274,117,100,100,https://healthcorps.org/,5432,0,2734
+1680676863733,5084,HealthCorps Home page,301,Moved Permanently,Thread Group 1-91,text,true,,274,117,100,100,https://healthcorps.org/,5084,0,2363
+1680676863524,5431,HealthCorps Home page,301,Moved Permanently,Thread Group 1-72,text,true,,274,117,100,100,https://healthcorps.org/,5431,0,2597
+1680676863534,5437,HealthCorps Home page,301,Moved Permanently,Thread Group 1-73,text,true,,274,117,100,100,https://healthcorps.org/,5437,0,2586
+1680676863153,5835,HealthCorps Home page,301,Moved Permanently,Thread Group 1-15,text,true,,274,117,100,100,https://healthcorps.org/,5835,0,2965
+1680676863443,5641,HealthCorps Home page,301,Moved Permanently,Thread Group 1-63,text,true,,274,117,100,100,https://healthcorps.org/,5641,0,2694
+1680676863144,6013,HealthCorps Home page,301,Moved Permanently,Thread Group 1-14,text,true,,274,117,100,100,https://healthcorps.org/,6013,0,3037
+1680676863364,5835,HealthCorps Home page,301,Moved Permanently,Thread Group 1-50,text,true,,274,117,100,100,https://healthcorps.org/,5835,0,2850
+1680676863505,5727,HealthCorps Home page,301,Moved Permanently,Thread Group 1-70,text,true,,274,117,100,100,https://healthcorps.org/,5727,0,2668
+1680676863143,6100,HealthCorps Home page,301,Moved Permanently,Thread Group 1-23,text,true,,274,117,100,100,https://healthcorps.org/,6100,0,3035
+1680676863349,5936,HealthCorps Home page,301,Moved Permanently,Thread Group 1-48,text,true,,274,117,100,100,https://healthcorps.org/,5936,0,2507
+1680676863357,5958,HealthCorps Home page,301,Moved Permanently,Thread Group 1-49,text,true,,274,117,100,100,https://healthcorps.org/,5958,0,2819
+1680676863393,5928,HealthCorps Home page,301,Moved Permanently,Thread Group 1-53,text,true,,274,117,100,100,https://healthcorps.org/,5928,0,2742
+1680676863282,6045,HealthCorps Home page,301,Moved Permanently,Thread Group 1-41,text,true,,274,117,100,100,https://healthcorps.org/,6045,0,2855
+1680676863562,5802,HealthCorps Home page,301,Moved Permanently,Thread Group 1-76,text,true,,274,117,100,100,https://healthcorps.org/,5802,0,2576
+1680676863164,6205,HealthCorps Home page,301,Moved Permanently,Thread Group 1-5,text,true,,274,117,100,100,https://healthcorps.org/,6205,0,2992
+1680676863223,6153,HealthCorps Home page,301,Moved Permanently,Thread Group 1-32,text,true,,274,117,100,100,https://healthcorps.org/,6153,0,2936
+1680676863217,6159,HealthCorps Home page,301,Moved Permanently,Thread Group 1-25,text,true,,274,117,100,100,https://healthcorps.org/,6159,0,2937
+1680676863154,6234,HealthCorps Home page,301,Moved Permanently,Thread Group 1-10,text,true,,274,117,100,100,https://healthcorps.org/,6234,0,3056
+1680676863228,6167,HealthCorps Home page,301,Moved Permanently,Thread Group 1-35,text,true,,274,117,100,100,https://healthcorps.org/,6167,0,2908
+1680676863162,6240,HealthCorps Home page,301,Moved Permanently,Thread Group 1-6,text,true,,274,117,100,100,https://healthcorps.org/,6240,0,3016
+1680676863164,6250,HealthCorps Home page,301,Moved Permanently,Thread Group 1-21,text,true,,274,117,100,100,https://healthcorps.org/,6250,0,2691
+1680676863795,5686,HealthCorps Home page,301,Moved Permanently,Thread Group 1-100,text,true,,274,117,100,100,https://healthcorps.org/,5686,0,2061
+1680676863592,5894,HealthCorps Home page,301,Moved Permanently,Thread Group 1-79,text,true,,274,117,100,100,https://healthcorps.org/,5894,0,2529
+1680676863203,6292,HealthCorps Home page,301,Moved Permanently,Thread Group 1-27,text,true,,274,117,100,100,https://healthcorps.org/,6292,0,2959
+1680676863322,6179,HealthCorps Home page,301,Moved Permanently,Thread Group 1-45,text,true,,274,117,100,100,https://healthcorps.org/,6179,0,2854
+1680676863219,6288,HealthCorps Home page,301,Moved Permanently,Thread Group 1-29,text,true,,274,117,100,100,https://healthcorps.org/,6288,0,2979
+1680676863461,6162,HealthCorps Home page,301,Moved Permanently,Thread Group 1-65,text,true,,274,117,100,100,https://healthcorps.org/,6162,0,2726
+1680676863573,6111,HealthCorps Home page,301,Moved Permanently,Thread Group 1-77,text,true,,274,117,100,100,https://healthcorps.org/,6111,0,2627
+1680676863308,6409,HealthCorps Home page,301,Moved Permanently,Thread Group 1-44,text,true,,274,117,100,100,https://healthcorps.org/,6409,0,2904
+1680676863237,6637,HealthCorps Home page,301,Moved Permanently,Thread Group 1-36,text,true,,274,117,100,100,https://healthcorps.org/,6637,0,2618
+1680676863256,6628,HealthCorps Home page,301,Moved Permanently,Thread Group 1-38,text,true,,274,117,100,100,https://healthcorps.org/,6628,0,2998
+1680676863148,6767,HealthCorps Home page,301,Moved Permanently,Thread Group 1-12,text,true,,274,117,100,100,https://healthcorps.org/,6767,0,3067
+1680676863485,6448,HealthCorps Home page,301,Moved Permanently,Thread Group 1-68,text,true,,274,117,100,100,https://healthcorps.org/,6448,0,2371
+1680676863731,6241,HealthCorps Home page,301,Moved Permanently,Thread Group 1-89,text,true,,274,117,100,100,https://healthcorps.org/,6241,0,2491
+1680676863162,6939,HealthCorps Home page,301,Moved Permanently,Thread Group 1-22,text,true,,274,117,100,100,https://healthcorps.org/,6939,0,2693
+1680676863224,6878,HealthCorps Home page,301,Moved Permanently,Thread Group 1-33,text,true,,274,117,100,100,https://healthcorps.org/,6878,0,3043
+1680676863631,6566,HealthCorps Home page,301,Moved Permanently,Thread Group 1-83,text,true,,274,117,100,100,https://healthcorps.org/,6566,0,2644
+1680676863431,6766,HealthCorps Home page,301,Moved Permanently,Thread Group 1-57,text,true,,274,117,100,100,https://healthcorps.org/,6766,0,2837
+1680676863777,6494,HealthCorps Home page,301,Moved Permanently,Thread Group 1-98,text,true,,274,117,100,100,https://healthcorps.org/,6494,0,2079
+1680676863449,6822,HealthCorps Home page,301,Moved Permanently,Thread Group 1-59,text,true,,274,117,100,100,https://healthcorps.org/,6822,0,2784
+1680676863162,7131,HealthCorps Home page,301,Moved Permanently,Thread Group 1-1,text,true,,274,117,100,100,https://healthcorps.org/,7131,0,3093
+1680676863613,6711,HealthCorps Home page,301,Moved Permanently,Thread Group 1-81,text,true,,274,117,100,100,https://healthcorps.org/,6711,0,2242
+1680676863164,7262,HealthCorps Home page,301,Moved Permanently,Thread Group 1-20,text,true,,274,117,100,100,https://healthcorps.org/,7262,0,3092
+1680676863415,7032,HealthCorps Home page,301,Moved Permanently,Thread Group 1-55,text,true,,274,117,100,100,https://healthcorps.org/,7032,0,2441
+1680676863476,7052,HealthCorps Home page,301,Moved Permanently,Thread Group 1-67,text,true,,274,117,100,100,https://healthcorps.org/,7052,0,2804
+1680676863403,7167,HealthCorps Home page,301,Moved Permanently,Thread Group 1-54,text,true,,274,117,100,100,https://healthcorps.org/,7167,0,2876
+1680676863134,7453,HealthCorps Home page,301,Moved Permanently,Thread Group 1-3,text,true,,274,117,100,100,https://healthcorps.org/,7453,0,3140
+1680676863211,7383,HealthCorps Home page,301,Moved Permanently,Thread Group 1-28,text,true,,274,117,100,100,https://healthcorps.org/,7383,0,3065
+1680676863156,7448,HealthCorps Home page,301,Moved Permanently,Thread Group 1-7,text,true,,274,117,100,100,https://healthcorps.org/,7448,0,3110
+1680676867113,3498,Show Program Plans,301,Moved Permanently,Thread Group 1-39,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3498,0,0
+1680676863602,7029,HealthCorps Home page,301,Moved Permanently,Thread Group 1-80,text,true,,274,117,100,100,https://healthcorps.org/,7029,0,2253
+1680676863165,7516,HealthCorps Home page,301,Moved Permanently,Thread Group 1-13,text,true,,274,117,100,100,https://healthcorps.org/,7516,0,3114
+1680676867064,3631,Show Program Plans,301,Moved Permanently,Thread Group 1-69,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3631,0,0
+1680676863736,6992,HealthCorps Home page,301,Moved Permanently,Thread Group 1-92,text,true,,274,117,100,100,https://healthcorps.org/,6992,0,2552
+1680676863165,7607,HealthCorps Home page,301,Moved Permanently,Thread Group 1-9,text,true,,274,117,100,100,https://healthcorps.org/,7607,0,2690
+1680676867336,3437,Show Program Plans,301,Moved Permanently,Thread Group 1-42,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3437,0,0
+1680676863221,7582,HealthCorps Home page,301,Moved Permanently,Thread Group 1-30,text,true,,274,117,100,100,https://healthcorps.org/,7582,0,3072
+1680676863660,7162,HealthCorps Home page,301,Moved Permanently,Thread Group 1-86,text,true,,274,117,100,100,https://healthcorps.org/,7162,0,2632
+1680676867064,3811,Show Program Plans,301,Moved Permanently,Thread Group 1-26,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3811,0,0
+1680676867165,3716,Show Program Plans,301,Moved Permanently,Thread Group 1-56,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3716,0,0
+1680676867478,3420,Show Program Plans,301,Moved Permanently,Thread Group 1-99,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3420,0,0
+1680676863328,7644,HealthCorps Home page,301,Moved Permanently,Thread Group 1-46,text,true,,274,117,100,100,https://healthcorps.org/,7644,0,2949
+1680676867501,3512,Show Program Plans,301,Moved Permanently,Thread Group 1-17,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3512,0,0
+1680676867570,3462,Show Program Plans,301,Moved Permanently,Thread Group 1-37,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3462,0,0
+1680676867708,3400,Show Program Plans,301,Moved Permanently,Thread Group 1-96,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3400,0,0
+1680676867171,3959,Show Program Plans,301,Moved Permanently,Thread Group 1-82,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3959,0,0
+1680676867621,3557,Show Program Plans,301,Moved Permanently,Thread Group 1-61,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3557,0,0
+1680676867796,3434,Show Program Plans,301,Moved Permanently,Thread Group 1-84,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3434,0,0
+1680676867870,3372,Show Program Plans,301,Moved Permanently,Thread Group 1-64,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3372,0,0
+1680676867776,3643,Show Program Plans,301,Moved Permanently,Thread Group 1-75,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3643,0,0
+1680676867878,3553,Show Program Plans,301,Moved Permanently,Thread Group 1-2,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3553,0,0
+1680676867897,3614,Show Program Plans,301,Moved Permanently,Thread Group 1-88,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3614,0,0
+1680676867991,3532,Show Program Plans,301,Moved Permanently,Thread Group 1-8,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3532,0,0
+1680676867918,3659,Show Program Plans,301,Moved Permanently,Thread Group 1-90,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3659,0,0
+1680676867870,3719,Show Program Plans,301,Moved Permanently,Thread Group 1-85,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3719,0,0
+1680676867891,3704,Show Program Plans,301,Moved Permanently,Thread Group 1-87,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3704,0,0
+1680676868019,3594,Show Program Plans,301,Moved Permanently,Thread Group 1-18,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3594,0,0
+1680676868036,3650,Show Program Plans,301,Moved Permanently,Thread Group 1-24,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3650,0,0
+1680676867978,3714,Show Program Plans,301,Moved Permanently,Thread Group 1-34,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3714,0,0
+1680676867872,3845,Show Program Plans,301,Moved Permanently,Thread Group 1-58,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3845,0,0
+1680676868058,3670,Show Program Plans,301,Moved Permanently,Thread Group 1-11,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3670,0,0
+1680676868099,3699,Show Program Plans,301,Moved Permanently,Thread Group 1-43,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3699,0,0
+1680676867918,3887,Show Program Plans,301,Moved Permanently,Thread Group 1-97,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3887,0,0
+1680676867930,3950,Show Program Plans,301,Moved Permanently,Thread Group 1-31,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3950,0,0
+1680676868414,3471,Show Program Plans,301,Moved Permanently,Thread Group 1-94,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3471,0,0
+1680676868087,3817,Show Program Plans,301,Moved Permanently,Thread Group 1-93,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3817,0,0
+1680676868135,3801,Show Program Plans,301,Moved Permanently,Thread Group 1-19,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3801,0,0
+1680676868004,3974,Show Program Plans,301,Moved Permanently,Thread Group 1-47,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3974,0,0
+1680676867936,4093,Show Program Plans,301,Moved Permanently,Thread Group 1-51,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,4093,0,0
+1680676868118,3916,Show Program Plans,301,Moved Permanently,Thread Group 1-60,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3916,0,0
+1680676868235,3856,Show Program Plans,301,Moved Permanently,Thread Group 1-40,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3856,0,0
+1680676868030,4082,Show Program Plans,301,Moved Permanently,Thread Group 1-66,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,4082,0,0
+1680676868398,3720,Show Program Plans,301,Moved Permanently,Thread Group 1-95,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3720,0,0
+1680676868592,3532,Show Program Plans,301,Moved Permanently,Thread Group 1-16,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3532,0,0
+1680676868592,3684,Show Program Plans,301,Moved Permanently,Thread Group 1-62,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3684,0,0
+1680676868817,3471,Show Program Plans,301,Moved Permanently,Thread Group 1-78,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3471,0,0
+1680676868268,4038,Show Program Plans,301,Moved Permanently,Thread Group 1-71,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,4038,0,0
+1680676868581,3754,Show Program Plans,301,Moved Permanently,Thread Group 1-4,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3754,0,0
+1680676868818,3591,Show Program Plans,301,Moved Permanently,Thread Group 1-91,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3591,0,0
+1680676868726,3751,Show Program Plans,301,Moved Permanently,Thread Group 1-74,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3751,0,0
+1680676868955,3528,Show Program Plans,301,Moved Permanently,Thread Group 1-72,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3528,0,0
+1680676868817,3685,Show Program Plans,301,Moved Permanently,Thread Group 1-52,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3685,0,0
+1680676869157,3371,Show Program Plans,301,Moved Permanently,Thread Group 1-14,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3371,0,0
+1680676869315,3263,Show Program Plans,301,Moved Permanently,Thread Group 1-49,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3263,0,0
+1680676868989,3610,Show Program Plans,301,Moved Permanently,Thread Group 1-15,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3610,0,0
+1680676869232,3391,Show Program Plans,301,Moved Permanently,Thread Group 1-70,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3391,0,0
+1680676869243,3461,Show Program Plans,301,Moved Permanently,Thread Group 1-23,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3461,0,0
+1680676868971,3757,Show Program Plans,301,Moved Permanently,Thread Group 1-73,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3757,0,0
+1680676869370,3417,Show Program Plans,301,Moved Permanently,Thread Group 1-5,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3417,0,0
+1680676869084,3722,Show Program Plans,301,Moved Permanently,Thread Group 1-63,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3722,0,0
+1680676869327,3491,Show Program Plans,301,Moved Permanently,Thread Group 1-41,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3491,0,0
+1680676869320,3543,Show Program Plans,301,Moved Permanently,Thread Group 1-53,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3543,0,0
+1680676869376,3528,Show Program Plans,301,Moved Permanently,Thread Group 1-32,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3528,0,0
+1680676869363,3600,Show Program Plans,301,Moved Permanently,Thread Group 1-76,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3600,0,0
+1680676869285,3684,Show Program Plans,301,Moved Permanently,Thread Group 1-48,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3684,0,0
+1680676869199,3793,Show Program Plans,301,Moved Permanently,Thread Group 1-50,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3793,0,0
+1680676869486,3527,Show Program Plans,301,Moved Permanently,Thread Group 1-79,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3527,0,0
+1680676869389,3700,Show Program Plans,301,Moved Permanently,Thread Group 1-10,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3700,0,0
+1680676869403,3761,Show Program Plans,301,Moved Permanently,Thread Group 1-6,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3761,0,0
+1680676869395,3809,Show Program Plans,301,Moved Permanently,Thread Group 1-35,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3809,0,0
+1680676869376,3854,Show Program Plans,301,Moved Permanently,Thread Group 1-25,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3854,0,0
+1680676869495,3793,Show Program Plans,301,Moved Permanently,Thread Group 1-27,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3793,0,0
+1680676869623,3741,Show Program Plans,301,Moved Permanently,Thread Group 1-65,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3741,0,0
+1680676870102,3269,Show Program Plans,301,Moved Permanently,Thread Group 1-22,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3269,0,0
+1680676869480,3891,Show Program Plans,301,Moved Permanently,Thread Group 1-100,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3891,0,0
+1680676869501,3875,Show Program Plans,301,Moved Permanently,Thread Group 1-45,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3875,0,0
+1680676869415,3971,Show Program Plans,301,Moved Permanently,Thread Group 1-21,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3970,0,0
+1680676869507,3885,Show Program Plans,301,Moved Permanently,Thread Group 1-29,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3885,0,0
+1680676869874,3555,Show Program Plans,301,Moved Permanently,Thread Group 1-36,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3555,0,0
+1680676869684,3745,Show Program Plans,301,Moved Permanently,Thread Group 1-77,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3745,0,0
+1680676869717,3712,Show Program Plans,301,Moved Permanently,Thread Group 1-44,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3712,0,0
+1680676869884,3591,Show Program Plans,301,Moved Permanently,Thread Group 1-38,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3591,0,0
+1680676870102,3379,Show Program Plans,301,Moved Permanently,Thread Group 1-33,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3379,0,0
+1680676869933,3576,Show Program Plans,301,Moved Permanently,Thread Group 1-68,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3576,0,0
+1680676870271,3356,Show Program Plans,301,Moved Permanently,Thread Group 1-59,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3356,0,0
+1680676869916,3809,Show Program Plans,301,Moved Permanently,Thread Group 1-12,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3809,0,0
+1680676869972,3835,Show Program Plans,301,Moved Permanently,Thread Group 1-89,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3835,0,0
+1680676870294,3520,Show Program Plans,301,Moved Permanently,Thread Group 1-1,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3520,0,0
+1680676870197,3847,Show Program Plans,301,Moved Permanently,Thread Group 1-57,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3847,0,0
+1680676870271,3773,Show Program Plans,301,Moved Permanently,Thread Group 1-98,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3773,0,0
+1680676870528,3516,Show Program Plans,301,Moved Permanently,Thread Group 1-67,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3516,0,0
+1680676870695,3374,Teens make health happen,301,Moved Permanently,Thread Group 1-69,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3374,0,0
+1680676870197,3884,Show Program Plans,301,Moved Permanently,Thread Group 1-83,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3884,0,0
+1680676870446,3640,Show Program Plans,301,Moved Permanently,Thread Group 1-55,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3640,0,0
+1680676870773,3326,Teens make health happen,301,Moved Permanently,Thread Group 1-42,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3326,0,0
+1680676870324,3861,Show Program Plans,301,Moved Permanently,Thread Group 1-81,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3861,0,0
+1680676870588,3609,Show Program Plans,301,Moved Permanently,Thread Group 1-3,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3609,0,0
+1680676870605,3592,Show Program Plans,301,Moved Permanently,Thread Group 1-7,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3592,0,0
+1680676870569,3640,Show Program Plans,301,Moved Permanently,Thread Group 1-54,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3640,0,0
+1680676870611,3619,Teens make health happen,301,Moved Permanently,Thread Group 1-39,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3619,0,0
+1680676870427,3851,Show Program Plans,301,Moved Permanently,Thread Group 1-20,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3851,0,0
+1680676870683,3610,Show Program Plans,301,Moved Permanently,Thread Group 1-13,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3610,0,0
+1680676870631,3697,Show Program Plans,301,Moved Permanently,Thread Group 1-80,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3697,0,0
+1680676870881,3502,Teens make health happen,301,Moved Permanently,Thread Group 1-56,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3502,0,0
+1680676870897,3509,Teens make health happen,301,Moved Permanently,Thread Group 1-99,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3509,0,0
+1680676870972,3447,Show Program Plans,301,Moved Permanently,Thread Group 1-46,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3447,0,0
+1680676870594,3830,Show Program Plans,301,Moved Permanently,Thread Group 1-28,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3830,0,0
+1680676870728,3740,Show Program Plans,301,Moved Permanently,Thread Group 1-92,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3740,0,0
+1680676871229,3251,Teens make health happen,301,Moved Permanently,Thread Group 1-84,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3251,0,0
+1680676870802,3702,Show Program Plans,301,Moved Permanently,Thread Group 1-30,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3702,0,0
+1680676871242,3274,Teens make health happen,301,Moved Permanently,Thread Group 1-64,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3274,0,0
+1680676871129,3460,Teens make health happen,301,Moved Permanently,Thread Group 1-82,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3460,0,0
+1680676871510,3117,Teens make health happen,301,Moved Permanently,Thread Group 1-88,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3117,0,0
+1680676870773,3927,Show Program Plans,301,Moved Permanently,Thread Group 1-9,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3927,0,0
+1680676871013,3693,Teens make health happen,301,Moved Permanently,Thread Group 1-17,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3693,0,0
+1680676871032,3681,Teens make health happen,301,Moved Permanently,Thread Group 1-37,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3681,0,0
+1680676871108,3672,Teens make health happen,301,Moved Permanently,Thread Group 1-96,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3672,0,0
+1680676870821,3999,Show Program Plans,301,Moved Permanently,Thread Group 1-86,text,true,,294,137,100,100,https://healthcorps.org/what-we-do/programs/,3999,0,0
+1680676870874,3946,Teens make health happen,301,Moved Permanently,Thread Group 1-26,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3946,0,0
+1680676871177,3722,Teens make health happen,301,Moved Permanently,Thread Group 1-61,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3722,0,0
+1680676871419,3575,Teens make health happen,301,Moved Permanently,Thread Group 1-75,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3575,0,0
+1680676871522,3484,Teens make health happen,301,Moved Permanently,Thread Group 1-8,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3484,0,0
+1680676871693,3436,Teens make health happen,301,Moved Permanently,Thread Group 1-34,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3436,0,0
+1680676871430,3798,Teens make health happen,301,Moved Permanently,Thread Group 1-2,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3798,0,0
+1680676871805,3504,Teens make health happen,301,Moved Permanently,Thread Group 1-97,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3504,0,0
+1680676871686,3629,Teens make health happen,301,Moved Permanently,Thread Group 1-24,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3629,0,0
+1680676871936,3427,Teens make health happen,301,Moved Permanently,Thread Group 1-19,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3427,0,0
+1680676871588,3791,Teens make health happen,301,Moved Permanently,Thread Group 1-85,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3791,0,0
+1680676871576,3828,Teens make health happen,301,Moved Permanently,Thread Group 1-90,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3828,0,0
+1680676871717,3701,Teens make health happen,301,Moved Permanently,Thread Group 1-58,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3701,0,0
+1680676871886,3532,Teens make health happen,301,Moved Permanently,Thread Group 1-94,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3532,0,0
+1680676871595,3829,Teens make health happen,301,Moved Permanently,Thread Group 1-87,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3829,0,0
+1680676871880,3550,Teens make health happen,301,Moved Permanently,Thread Group 1-31,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3550,0,0
+1680676872125,3305,Teens make health happen,301,Moved Permanently,Thread Group 1-16,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3305,0,0
+1680676871613,3823,Teens make health happen,301,Moved Permanently,Thread Group 1-18,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3823,0,0
+1680676872034,3438,Teens make health happen,301,Moved Permanently,Thread Group 1-60,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3438,0,0
+1680676871728,3752,Teens make health happen,301,Moved Permanently,Thread Group 1-11,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3752,0,0
+1680676871798,3688,Teens make health happen,301,Moved Permanently,Thread Group 1-43,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3688,0,0
+1680676872307,3195,Teens make health happen,301,Moved Permanently,Thread Group 1-71,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3195,0,0
+1680676872029,3557,Teens make health happen,301,Moved Permanently,Thread Group 1-51,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3557,0,0
+1680676872112,3615,Teens make health happen,301,Moved Permanently,Thread Group 1-66,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3615,0,0
+1680676871977,3787,Teens make health happen,301,Moved Permanently,Thread Group 1-47,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3787,0,0
+1680676872118,3652,Teens make health happen,301,Moved Permanently,Thread Group 1-95,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3652,0,0
+1680676872092,3688,Teens make health happen,301,Moved Permanently,Thread Group 1-40,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3688,0,0
+1680676871905,3887,Teens make health happen,301,Moved Permanently,Thread Group 1-93,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3887,0,0
+1680676872277,3549,Teens make health happen,301,Moved Permanently,Thread Group 1-62,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3549,0,0
+1680676872484,3347,Teens make health happen,301,Moved Permanently,Thread Group 1-72,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3347,0,0
+1680676872528,3354,Teens make health happen,301,Moved Permanently,Thread Group 1-14,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3354,0,0
+1680676872335,3565,Teens make health happen,301,Moved Permanently,Thread Group 1-4,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3565,0,0
+1680676872288,3624,Teens make health happen,301,Moved Permanently,Thread Group 1-78,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3624,0,0
+1680676872409,3571,Teens make health happen,301,Moved Permanently,Thread Group 1-91,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3571,0,0
+1680676872477,3566,Teens make health happen,301,Moved Permanently,Thread Group 1-74,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3566,0,0
+1680676872599,3593,Teens make health happen,301,Moved Permanently,Thread Group 1-15,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3593,0,0
+1680676872502,3697,Teens make health happen,301,Moved Permanently,Thread Group 1-52,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3697,0,0
+1680676872578,3722,Teens make health happen,301,Moved Permanently,Thread Group 1-49,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3722,0,0
+1680676872704,3690,Teens make health happen,301,Moved Permanently,Thread Group 1-23,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3690,0,0
+1680676872624,3807,Teens make health happen,301,Moved Permanently,Thread Group 1-70,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3807,0,0
+1680676872788,3712,Teens make health happen,301,Moved Permanently,Thread Group 1-5,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3712,0,0
+1680676873166,3431,Teens make health happen,301,Moved Permanently,Thread Group 1-6,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3431,0,0
+1680676872964,3632,Teens make health happen,301,Moved Permanently,Thread Group 1-76,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3632,0,0
+1680676872728,3868,Teens make health happen,301,Moved Permanently,Thread Group 1-73,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3868,0,0
+1680676872905,3694,Teens make health happen,301,Moved Permanently,Thread Group 1-32,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3694,0,0
+1680676873372,3230,Teens make health happen,301,Moved Permanently,Thread Group 1-100,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3230,0,0
+1680676873014,3617,Teens make health happen,301,Moved Permanently,Thread Group 1-79,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3617,0,0
+1680676873378,3266,Teens make health happen,301,Moved Permanently,Thread Group 1-45,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3266,0,0
+1680676873205,3481,Teens make health happen,301,Moved Permanently,Thread Group 1-35,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3481,0,0
+1680676872970,3729,Teens make health happen,301,Moved Permanently,Thread Group 1-48,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3729,0,0
+1680676873289,3417,Teens make health happen,301,Moved Permanently,Thread Group 1-27,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3417,0,0
+1680676873231,3475,Teens make health happen,301,Moved Permanently,Thread Group 1-25,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3475,0,0
+1680676873091,3630,Teens make health happen,301,Moved Permanently,Thread Group 1-10,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3630,0,0
+1680676872993,3748,Teens make health happen,301,Moved Permanently,Thread Group 1-50,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3748,0,0
+1680676872806,3935,Teens make health happen,301,Moved Permanently,Thread Group 1-63,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3935,0,0
+1680676872863,3890,Teens make health happen,301,Moved Permanently,Thread Group 1-53,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3890,0,0
+1680676872819,4002,Teens make health happen,301,Moved Permanently,Thread Group 1-41,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,4002,0,0
+1680676873726,3143,Teens make health happen,301,Moved Permanently,Thread Group 1-12,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3143,0,0
+1680676873372,3545,Teens make health happen,301,Moved Permanently,Thread Group 1-22,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3545,0,0
+1680676873394,3636,Teens make health happen,301,Moved Permanently,Thread Group 1-29,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3636,0,0
+1680676873366,3670,Teens make health happen,301,Moved Permanently,Thread Group 1-65,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3670,0,0
+1680676873431,3655,Teens make health happen,301,Moved Permanently,Thread Group 1-77,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3655,0,0
+1680676873510,3611,Teens make health happen,301,Moved Permanently,Thread Group 1-68,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3611,0,0
+1680676873387,3740,Teens make health happen,301,Moved Permanently,Thread Group 1-21,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3740,0,0
+1680676873431,3757,Teens make health happen,301,Moved Permanently,Thread Group 1-36,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3757,0,0
+1680676873482,3712,Teens make health happen,301,Moved Permanently,Thread Group 1-33,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3712,0,0
+1680676873809,3396,Teens make health happen,301,Moved Permanently,Thread Group 1-89,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3396,0,0
+1680676873476,3745,Teens make health happen,301,Moved Permanently,Thread Group 1-38,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3745,0,0
+1680676873431,3803,Teens make health happen,301,Moved Permanently,Thread Group 1-44,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3803,0,0
+1680676873628,3688,Teens make health happen,301,Moved Permanently,Thread Group 1-59,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3688,0,0
+1680676873815,3671,Teens make health happen,301,Moved Permanently,Thread Group 1-1,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3671,0,0
+1680676874082,3433,Teens make health happen,301,Moved Permanently,Thread Group 1-83,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3433,0,0
+1680676874046,3490,Teens make health happen,301,Moved Permanently,Thread Group 1-57,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3490,0,0
+1680676874046,3495,Teens make health happen,301,Moved Permanently,Thread Group 1-67,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3495,0,0
+1680676874046,3576,Teens make health happen,301,Moved Permanently,Thread Group 1-98,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3576,0,0
+1680676874329,3456,Teens make health happen,301,Moved Permanently,Thread Group 1-80,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3456,0,0
+1680676874186,3599,Teens make health happen,301,Moved Permanently,Thread Group 1-81,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3599,0,0
+1680676874070,3721,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-69,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3721,0,0
+1680676874088,3783,Teens make health happen,301,Moved Permanently,Thread Group 1-55,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3783,0,0
+1680676874198,3673,Teens make health happen,301,Moved Permanently,Thread Group 1-7,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3673,0,0
+1680676874100,3771,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-42,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3771,0,0
+1680676874198,3674,Teens make health happen,301,Moved Permanently,Thread Group 1-3,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3674,0,0
+1680676874469,3405,Teens make health happen,301,Moved Permanently,Thread Group 1-92,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3405,0,0
+1680676874279,3598,Teens make health happen,301,Moved Permanently,Thread Group 1-20,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3598,0,0
+1680676874210,3772,Teens make health happen,301,Moved Permanently,Thread Group 1-54,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3772,0,0
+1680676874385,3609,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-56,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3609,0,0
+1680676874231,3769,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-39,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3769,0,0
+1680676874426,3574,Teens make health happen,301,Moved Permanently,Thread Group 1-28,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3574,0,0
+1680676874294,3716,Teens make health happen,301,Moved Permanently,Thread Group 1-13,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3716,0,0
+1680676874420,3602,Teens make health happen,301,Moved Permanently,Thread Group 1-46,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3602,0,0
+1680676874407,3626,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-99,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3626,0,0
+1680676874481,3590,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-84,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3590,0,0
+1680676874702,3417,Teens make health happen,301,Moved Permanently,Thread Group 1-9,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3417,0,0
+1680676874518,3607,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-64,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3607,0,0
+1680676874822,3389,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-26,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3389,0,0
+1680676874591,3638,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-82,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3638,0,0
+1680676874506,3769,Teens make health happen,301,Moved Permanently,Thread Group 1-30,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3769,0,0
+1680676874629,3746,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-88,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3746,0,0
+1680676875007,3396,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-8,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3396,0,0
+1680676874708,3724,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-17,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3724,0,0
+1680676874715,3766,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-37,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3766,0,0
+1680676874901,3604,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-61,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3604,0,0
+1680676874822,3689,Teens make health happen,301,Moved Permanently,Thread Group 1-86,text,true,,279,122,100,100,https://healthcorps.org/tmhh/,3689,0,0
+1680676874995,3575,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-75,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3575,0,0
+1680676874782,3840,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-96,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3840,0,0
+1680676875229,3468,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-2,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3468,0,0
+1680676875311,3425,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-97,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3425,0,0
+1680676875317,3425,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-24,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3425,0,0
+1680676875130,3769,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-34,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3769,0,0
+1680676875419,3555,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-94,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3555,0,0
+1680676875381,3611,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-85,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3611,0,0
+1680676875504,3500,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-71,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3500,0,0
+1680676875431,3645,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-31,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3645,0,0
+1680676875365,3717,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-19,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3717,0,0
+1680676875405,3704,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-90,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3704,0,0
+1680676875419,3703,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-58,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3703,0,0
+1680676875425,3703,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-87,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3703,0,0
+1680676875474,3660,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-60,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3660,0,0
+1680676875438,3702,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-18,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3702,0,0
+1680676875481,3687,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-11,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3687,0,0
+1680676875431,3799,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-16,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3799,0,0
+1680676875772,3510,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-95,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3510,0,0
+1680676875729,3570,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-66,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3570,0,0
+1680676875833,3472,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-72,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3472,0,0
+1680676875766,3545,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-47,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3545,0,0
+1680676875588,3793,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-51,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3793,0,0
+1680676875794,3593,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-93,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3593,0,0
+1680676875827,3560,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-62,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3560,0,0
+1680676875487,3919,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-43,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3919,0,0
+1680676875902,3521,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-4,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3521,0,0
+1680676875884,3622,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-14,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3622,0,0
+1680676876045,3483,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-74,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3483,0,0
+1680676875782,3782,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-40,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3782,0,0
+1680676875982,3608,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-91,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3608,0,0
+1680676875914,3708,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-78,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3708,0,0
+1680676876395,3236,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-23,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3236,0,0
+1680676876432,3295,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-70,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3295,0,0
+1680676876501,3283,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-5,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3283,0,0
+1680676876195,3645,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-15,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3645,0,0
+1680676876604,3310,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-32,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3310,0,0
+1680676876301,3670,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-49,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3670,0,0
+1680676876597,3380,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-6,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3380,0,0
+1680676876201,3804,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-52,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3804,0,0
+1680676876644,3394,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-45,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3394,0,0
+1680676876633,3441,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-79,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3441,0,0
+1680676876597,3508,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-76,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3508,0,0
+1680676876706,3515,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-25,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3515,0,0
+1680676876601,3681,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-73,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3681,0,0
+1680676876602,3780,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-100,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3780,0,0
+1680676876700,3682,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-48,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3682,0,0
+1680676876742,3657,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-63,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3657,0,0
+1680676876706,3721,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-27,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3721,0,0
+1680676876687,3819,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-35,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3819,0,0
+1680676877087,3425,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-77,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3425,0,0
+1680676876721,3804,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-10,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3804,0,0
+1680676877127,3404,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-21,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3404,0,0
+1680676876870,3709,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-12,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3709,0,0
+1680676876918,3667,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-22,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3667,0,0
+1680676876742,3886,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-50,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3886,0,0
+1680676877121,3507,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-68,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3507,0,0
+1680676876822,3806,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-41,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3806,0,0
+1680676877234,3444,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-44,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3444,0,0
+1680676877037,3688,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-65,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3688,0,0
+1680676876754,3971,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-53,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3971,0,0
+1680676877189,3553,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-36,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3553,0,0
+1680676877316,3426,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-59,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3426,0,0
+1680676877031,3806,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-29,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3806,0,0
+1680676877205,3638,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-89,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3638,0,0
+1680676877515,3392,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-83,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3392,0,0
+1680676877222,3697,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-38,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3697,0,0
+1680676877194,3802,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-33,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3802,0,0
+1680676877486,3549,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-1,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3549,0,0
+1680676877622,3420,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-98,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3420,0,0
+1680676877785,3257,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-81,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3257,0,0
+1680676877536,3579,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-57,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3579,0,0
+1680676877785,3398,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-80,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3398,0,0
+1680676877873,3326,living labs,301,Moved Permanently,Thread Group 1-42,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3326,0,0
+1680676877542,3764,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-67,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3764,0,0
+1680676877873,3517,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-7,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3517,0,0
+1680676877994,3433,living labs,301,Moved Permanently,Thread Group 1-56,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3433,0,0
+1680676877873,3611,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-3,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3611,0,0
+1680676877983,3516,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-54,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3516,0,0
+1680676877875,3630,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-92,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3630,0,0
+1680676877791,3737,living labs,301,Moved Permanently,Thread Group 1-69,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3737,0,0
+1680676877874,3811,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-55,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3811,0,0
+1680676878119,3566,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-9,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3566,0,0
+1680676877878,3808,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-20,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3808,0,0
+1680676878001,3708,living labs,301,Moved Permanently,Thread Group 1-39,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3708,0,0
+1680676878212,3527,living labs,301,Moved Permanently,Thread Group 1-26,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3527,0,0
+1680676878482,3305,living labs,301,Moved Permanently,Thread Group 1-37,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3305,0,0
+1680676878001,3792,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-28,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3792,0,0
+1680676878230,3569,living labs,301,Moved Permanently,Thread Group 1-82,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3569,0,0
+1680676878376,3443,living labs,301,Moved Permanently,Thread Group 1-88,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3443,0,0
+1680676878023,3796,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-46,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3796,0,0
+1680676878071,3754,living labs,301,Moved Permanently,Thread Group 1-84,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3754,0,0
+1680676878010,3821,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-13,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3821,0,0
+1680676878276,3604,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-30,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3604,0,0
+1680676878433,3475,living labs,301,Moved Permanently,Thread Group 1-17,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3475,0,0
+1680676878125,3814,living labs,301,Moved Permanently,Thread Group 1-64,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3814,0,0
+1680676878034,3947,living labs,301,Moved Permanently,Thread Group 1-99,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3947,0,0
+1680676878737,3284,living labs,301,Moved Permanently,Thread Group 1-97,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3284,0,0
+1680676878993,3110,living labs,301,Moved Permanently,Thread Group 1-85,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3110,0,0
+1680676878900,3238,living labs,301,Moved Permanently,Thread Group 1-34,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3238,0,0
+1680676878622,3559,living labs,301,Moved Permanently,Thread Group 1-96,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3559,0,0
+1680676878404,3817,living labs,301,Moved Permanently,Thread Group 1-8,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3817,0,0
+1680676878697,3529,living labs,301,Moved Permanently,Thread Group 1-2,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3529,0,0
+1680676878506,3726,living labs,301,Moved Permanently,Thread Group 1-61,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3726,0,0
+1680676878512,3720,HealthCorps Financials ,301,Moved Permanently,Thread Group 1-86,text,true,,294,137,100,100,https://healthcorps.org/about-us/financials/,3720,0,0
+1680676878743,3593,living labs,301,Moved Permanently,Thread Group 1-24,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3593,0,0
+1680676878975,3398,living labs,301,Moved Permanently,Thread Group 1-94,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3398,0,0
+1680676878570,3808,living labs,301,Moved Permanently,Thread Group 1-75,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3808,0,0
+1680676879005,3400,living labs,301,Moved Permanently,Thread Group 1-71,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3400,0,0
+1680676879109,3508,living labs,301,Moved Permanently,Thread Group 1-90,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3508,0,0
+1680676879128,3508,living labs,301,Moved Permanently,Thread Group 1-87,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3508,0,0
+1680676879140,3595,living labs,301,Moved Permanently,Thread Group 1-18,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3595,0,0
+1680676879082,3697,living labs,301,Moved Permanently,Thread Group 1-19,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3697,0,0
+1680676879134,3651,living labs,301,Moved Permanently,Thread Group 1-60,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3651,0,0
+1680676879122,3675,living labs,301,Moved Permanently,Thread Group 1-58,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3675,0,0
+1680676879300,3513,living labs,301,Moved Permanently,Thread Group 1-66,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3513,0,0
+1680676879231,3588,living labs,301,Moved Permanently,Thread Group 1-16,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3588,0,0
+1680676879076,3749,living labs,301,Moved Permanently,Thread Group 1-31,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3749,0,0
+1680676879168,3696,living labs,301,Moved Permanently,Thread Group 1-11,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3696,0,0
+1680676879283,3626,living labs,301,Moved Permanently,Thread Group 1-95,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3626,0,0
+1680676879424,3514,living labs,301,Moved Permanently,Thread Group 1-4,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3514,0,0
+1680676879306,3664,living labs,301,Moved Permanently,Thread Group 1-72,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3664,0,0
+1680676879382,3614,living labs,301,Moved Permanently,Thread Group 1-51,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3614,0,0
+1680676879529,3479,living labs,301,Moved Permanently,Thread Group 1-74,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3479,0,0
+1680676879312,3703,living labs,301,Moved Permanently,Thread Group 1-47,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3703,0,0
+1680676879388,3706,living labs,301,Moved Permanently,Thread Group 1-93,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3706,0,0
+1680676879388,3718,living labs,301,Moved Permanently,Thread Group 1-62,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3718,0,0
+1680676879407,3713,living labs,301,Moved Permanently,Thread Group 1-43,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3713,0,0
+1680676879623,3564,living labs,301,Moved Permanently,Thread Group 1-78,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3564,0,0
+1680676879591,3608,living labs,301,Moved Permanently,Thread Group 1-91,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3608,0,0
+1680676879507,3793,living labs,301,Moved Permanently,Thread Group 1-14,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3793,0,0
+1680676879632,3704,living labs,301,Moved Permanently,Thread Group 1-23,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3704,0,0
+1680676879915,3457,living labs,301,Moved Permanently,Thread Group 1-32,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3457,0,0
+1680676879565,3813,living labs,301,Moved Permanently,Thread Group 1-40,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3813,0,0
+1680676879728,3687,living labs,301,Moved Permanently,Thread Group 1-70,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3687,0,0
+1680676879785,3696,living labs,301,Moved Permanently,Thread Group 1-5,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3696,0,0
+1680676880039,3448,living labs,301,Moved Permanently,Thread Group 1-45,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3448,0,0
+1680676879972,3537,living labs,301,Moved Permanently,Thread Group 1-49,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3537,0,0
+1680676879841,3674,living labs,301,Moved Permanently,Thread Group 1-15,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3674,0,0
+1680676880105,3499,living labs,301,Moved Permanently,Thread Group 1-76,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3499,0,0
+1680676880074,3530,living labs,301,Moved Permanently,Thread Group 1-79,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3530,0,0
+1680676880383,3286,living labs,301,Moved Permanently,Thread Group 1-100,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3286,0,0
+1680676880222,3476,living labs,301,Moved Permanently,Thread Group 1-25,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3476,0,0
+1680676879978,3726,living labs,301,Moved Permanently,Thread Group 1-6,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3726,0,0
+1680676880006,3704,living labs,301,Moved Permanently,Thread Group 1-52,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3704,0,0
+1680676880400,3316,living labs,301,Moved Permanently,Thread Group 1-63,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3316,0,0
+1680676880282,3789,living labs,301,Moved Permanently,Thread Group 1-73,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3789,0,0
+1680676880507,3564,living labs,301,Moved Permanently,Thread Group 1-35,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3564,0,0
+1680676880532,3539,living labs,301,Moved Permanently,Thread Group 1-21,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3539,0,0
+1680676880629,3446,living labs,301,Moved Permanently,Thread Group 1-50,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3446,0,0
+1680676880513,3574,living labs,301,Moved Permanently,Thread Group 1-77,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3574,0,0
+1680676880586,3538,living labs,301,Moved Permanently,Thread Group 1-22,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3538,0,0
+1680676880428,3709,living labs,301,Moved Permanently,Thread Group 1-27,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3709,0,0
+1680676880383,3791,living labs,301,Moved Permanently,Thread Group 1-48,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3791,0,0
+1680676880580,3600,living labs,301,Moved Permanently,Thread Group 1-12,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3600,0,0
+1680676880629,3569,living labs,301,Moved Permanently,Thread Group 1-41,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3569,0,0
+1680676880525,3707,living labs,301,Moved Permanently,Thread Group 1-10,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3707,0,0
+1680676880742,3528,living labs,301,Moved Permanently,Thread Group 1-59,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3528,0,0
+1680676880629,3647,living labs,301,Moved Permanently,Thread Group 1-68,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3647,0,0
+1680676880679,3609,living labs,301,Moved Permanently,Thread Group 1-44,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3609,0,0
+1680676880837,3570,living labs,301,Moved Permanently,Thread Group 1-29,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3570,0,0
+1680676880725,3688,living labs,301,Moved Permanently,Thread Group 1-53,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3688,0,0
+1680676880742,3677,living labs,301,Moved Permanently,Thread Group 1-36,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3677,0,0
+1680676880725,3700,living labs,301,Moved Permanently,Thread Group 1-65,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3700,0,0
+1680676880844,3644,living labs,301,Moved Permanently,Thread Group 1-89,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3644,0,0
+1680676881390,3194,living labs,301,Moved Permanently,Thread Group 1-7,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3194,0,0
+1680676880908,3724,living labs,301,Moved Permanently,Thread Group 1-83,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3724,0,0
+1680676881042,3631,living labs,301,Moved Permanently,Thread Group 1-81,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3631,0,0
+1680676881042,3661,living labs,301,Moved Permanently,Thread Group 1-98,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3661,0,0
+1680676880997,3733,living labs,301,Moved Permanently,Thread Group 1-33,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3733,0,0
+1680676880920,3858,living labs,301,Moved Permanently,Thread Group 1-38,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3858,0,0
+1680676881184,3600,living labs,301,Moved Permanently,Thread Group 1-80,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3600,0,0
+1680676881500,3290,living labs,301,Moved Permanently,Thread Group 1-54,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3290,0,0
+1680676881036,3779,living labs,301,Moved Permanently,Thread Group 1-1,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3779,0,0
+1680676881307,3521,living labs,301,Moved Permanently,Thread Group 1-67,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3521,0,0
+1680676881428,3406,HealthCorps Resources,301,Moved Permanently,Thread Group 1-56,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3406,0,0
+1680676881529,3366,HealthCorps Resources,301,Moved Permanently,Thread Group 1-69,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3366,0,0
+1680676881200,3710,HealthCorps Resources,301,Moved Permanently,Thread Group 1-42,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3710,0,0
+1680676881506,3429,living labs,301,Moved Permanently,Thread Group 1-92,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3429,0,0
+1680676881116,3880,living labs,301,Moved Permanently,Thread Group 1-57,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3880,0,0
+1680676881686,3322,living labs,301,Moved Permanently,Thread Group 1-20,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3322,0,0
+1680676881794,3307,living labs,301,Moved Permanently,Thread Group 1-28,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3307,0,0
+1680676881485,3628,living labs,301,Moved Permanently,Thread Group 1-3,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3628,0,0
+1680676881820,3401,HealthCorps Resources,301,Moved Permanently,Thread Group 1-88,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3401,0,0
+1680676881832,3532,living labs,301,Moved Permanently,Thread Group 1-13,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3532,0,0
+1680676881740,3624,HealthCorps Resources,301,Moved Permanently,Thread Group 1-26,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3624,0,0
+1680676881826,3538,HealthCorps Resources,301,Moved Permanently,Thread Group 1-84,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3538,0,0
+1680676881788,3580,HealthCorps Resources,301,Moved Permanently,Thread Group 1-37,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3580,0,0
+1680676881686,3697,living labs,301,Moved Permanently,Thread Group 1-9,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3697,0,0
+1680676881686,3731,living labs,301,Moved Permanently,Thread Group 1-55,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3731,0,0
+1680676881908,3574,HealthCorps Resources,301,Moved Permanently,Thread Group 1-17,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3574,0,0
+1680676881710,3800,HealthCorps Resources,301,Moved Permanently,Thread Group 1-39,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3800,0,0
+1680676881800,3727,HealthCorps Resources,301,Moved Permanently,Thread Group 1-82,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3727,0,0
+1680676881880,3700,living labs,301,Moved Permanently,Thread Group 1-30,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3700,0,0
+1680676882104,3506,HealthCorps Resources,301,Moved Permanently,Thread Group 1-85,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3506,0,0
+1680676881820,3802,living labs,301,Moved Permanently,Thread Group 1-46,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3802,0,0
+1680676882139,3489,HealthCorps Resources,301,Moved Permanently,Thread Group 1-34,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3489,0,0
+1680676882021,3687,HealthCorps Resources,301,Moved Permanently,Thread Group 1-97,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3687,0,0
+1680676881982,3845,HealthCorps Resources,301,Moved Permanently,Thread Group 1-99,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3845,0,0
+1680676881940,3893,HealthCorps Resources,301,Moved Permanently,Thread Group 1-64,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3893,0,0
+1680676882182,3712,HealthCorps Resources,301,Moved Permanently,Thread Group 1-96,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3712,0,0
+1680676882405,3516,HealthCorps Resources,301,Moved Permanently,Thread Group 1-71,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3516,0,0
+1680676882232,3751,living labs,301,Moved Permanently,Thread Group 1-86,text,true,,313,156,100,100,https://healthcorps.org/what-we-do/school-programs/living-labs/,3751,0,0
+1680676882379,3624,HealthCorps Resources,301,Moved Permanently,Thread Group 1-75,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3624,0,0
+1680676882223,3786,HealthCorps Resources,301,Moved Permanently,Thread Group 1-8,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3786,0,0
+1680676882339,3687,HealthCorps Resources,301,Moved Permanently,Thread Group 1-24,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3687,0,0
+1680676882232,3806,HealthCorps Resources,301,Moved Permanently,Thread Group 1-61,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3806,0,0
+1680676882226,3818,HealthCorps Resources,301,Moved Permanently,Thread Group 1-2,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3818,0,0
+1680676882374,3807,HealthCorps Resources,301,Moved Permanently,Thread Group 1-94,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3807,0,0
+1680676882618,3569,HealthCorps Resources,301,Moved Permanently,Thread Group 1-90,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3569,0,0
+1680676882637,3567,HealthCorps Resources,301,Moved Permanently,Thread Group 1-87,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3567,0,0
+1680676882785,3492,HealthCorps Resources,301,Moved Permanently,Thread Group 1-60,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3492,0,0
+1680676882820,3469,HealthCorps Resources,301,Moved Permanently,Thread Group 1-16,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3469,0,0
+1680676882826,3493,HealthCorps Resources,301,Moved Permanently,Thread Group 1-31,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3493,0,0
+1680676882735,3602,HealthCorps Resources,301,Moved Permanently,Thread Group 1-18,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3602,0,0
+1680676882996,3378,HealthCorps Resources,301,Moved Permanently,Thread Group 1-51,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3378,0,0
+1680676882779,3624,HealthCorps Resources,301,Moved Permanently,Thread Group 1-19,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3624,0,0
+1680676882864,3545,HealthCorps Resources,301,Moved Permanently,Thread Group 1-11,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3545,0,0
+1680676882814,3601,HealthCorps Resources,301,Moved Permanently,Thread Group 1-66,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3601,0,0
+1680676882938,3483,HealthCorps Resources,301,Moved Permanently,Thread Group 1-4,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3483,0,0
+1680676882797,3638,HealthCorps Resources,301,Moved Permanently,Thread Group 1-58,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3638,0,0
+1680676882910,3553,HealthCorps Resources,301,Moved Permanently,Thread Group 1-95,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3553,0,0
+1680676883016,3592,HealthCorps Resources,301,Moved Permanently,Thread Group 1-47,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3592,0,0
+1680676883093,3553,HealthCorps Resources,301,Moved Permanently,Thread Group 1-93,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3553,0,0
+1680676883105,3547,HealthCorps Resources,301,Moved Permanently,Thread Group 1-62,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3547,0,0
+1680676883008,3677,HealthCorps Resources,301,Moved Permanently,Thread Group 1-74,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3677,0,0
+1680676882970,3822,HealthCorps Resources,301,Moved Permanently,Thread Group 1-72,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3822,0,0
+1680676883299,3586,HealthCorps Resources,301,Moved Permanently,Thread Group 1-14,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3586,0,0
+1680676883377,3530,HealthCorps Resources,301,Moved Permanently,Thread Group 1-40,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3530,0,0
+1680676883336,3590,HealthCorps Resources,301,Moved Permanently,Thread Group 1-23,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3590,0,0
+1680676883119,3819,HealthCorps Resources,301,Moved Permanently,Thread Group 1-43,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3819,0,0
+1680676883187,3751,HealthCorps Resources,301,Moved Permanently,Thread Group 1-78,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3751,0,0
+1680676883199,3796,HealthCorps Resources,301,Moved Permanently,Thread Group 1-91,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3796,0,0
+1680676883604,3523,HealthCorps Resources,301,Moved Permanently,Thread Group 1-79,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3523,0,0
+1680676883481,3674,HealthCorps Resources,301,Moved Permanently,Thread Group 1-5,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3674,0,0
+1680676883668,3559,HealthCorps Resources,301,Moved Permanently,Thread Group 1-100,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3559,0,0
+1680676883604,3660,HealthCorps Resources,301,Moved Permanently,Thread Group 1-76,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3660,0,0
+1680676883415,3855,HealthCorps Resources,301,Moved Permanently,Thread Group 1-70,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3855,0,0
+1680676883371,3944,HealthCorps Resources,301,Moved Permanently,Thread Group 1-32,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3944,0,0
+1680676883515,3852,HealthCorps Resources,301,Moved Permanently,Thread Group 1-15,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3852,0,0
+1680676884071,3308,HealthCorps Resources,301,Moved Permanently,Thread Group 1-21,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3308,0,0
+1680676883487,3914,HealthCorps Resources,301,Moved Permanently,Thread Group 1-45,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3914,0,0
+1680676883698,3734,HealthCorps Resources,301,Moved Permanently,Thread Group 1-25,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3734,0,0
+1680676884075,3363,HealthCorps Resources,301,Moved Permanently,Thread Group 1-50,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3363,0,0
+1680676883509,3981,HealthCorps Resources,301,Moved Permanently,Thread Group 1-49,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3981,0,0
+1680676884071,3425,HealthCorps Resources,301,Moved Permanently,Thread Group 1-73,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3425,0,0
+1680676884124,3390,HealthCorps Resources,301,Moved Permanently,Thread Group 1-22,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3390,0,0
+1680676884071,3443,HealthCorps Resources,301,Moved Permanently,Thread Group 1-35,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3443,0,0
+1680676883704,3834,HealthCorps Resources,301,Moved Permanently,Thread Group 1-6,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3834,0,0
+1680676883710,3853,HealthCorps Resources,301,Moved Permanently,Thread Group 1-52,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3853,0,0
+1680676883716,3859,HealthCorps Resources,301,Moved Permanently,Thread Group 1-63,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3859,0,0
+1680676884086,3500,HealthCorps Resources,301,Moved Permanently,Thread Group 1-77,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3500,0,0
+1680676884198,3404,HealthCorps Resources,301,Moved Permanently,Thread Group 1-41,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3404,0,0
+1680676884137,3477,HealthCorps Resources,301,Moved Permanently,Thread Group 1-27,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3477,0,0
+1680676884270,3423,HealthCorps Resources,301,Moved Permanently,Thread Group 1-59,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3423,0,0
+1680676884174,3615,HealthCorps Resources,301,Moved Permanently,Thread Group 1-48,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3615,0,0
+1680676884180,3629,HealthCorps Resources,301,Moved Permanently,Thread Group 1-12,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3629,0,0
+1680676884232,3598,HealthCorps Resources,301,Moved Permanently,Thread Group 1-10,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3598,0,0
+1680676884288,3603,HealthCorps Resources,301,Moved Permanently,Thread Group 1-44,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3603,0,0
+1680676884413,3623,HealthCorps Resources,301,Moved Permanently,Thread Group 1-53,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3623,0,0
+1680676884631,3417,HealthCorps Resources,301,Moved Permanently,Thread Group 1-83,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3417,0,0
+1680676884407,3712,HealthCorps Resources,301,Moved Permanently,Thread Group 1-29,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3712,0,0
+1680676884276,3911,HealthCorps Resources,301,Moved Permanently,Thread Group 1-68,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3911,0,0
+1680676884419,3791,HealthCorps Resources,301,Moved Permanently,Thread Group 1-36,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3791,0,0
+1680676884488,3797,HealthCorps Resources,301,Moved Permanently,Thread Group 1-89,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3797,0,0
+1680676884425,3872,HealthCorps Resources,301,Moved Permanently,Thread Group 1-65,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3872,0,0
+1680676884778,3547,HealthCorps Resources,301,Moved Permanently,Thread Group 1-38,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3547,0,0
+1680676884673,3729,HealthCorps Resources,301,Moved Permanently,Thread Group 1-81,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3729,0,0
+1680676884790,3681,HealthCorps Resources,301,Moved Permanently,Thread Group 1-54,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3681,0,0
+1680676884584,3918,HealthCorps Resources,301,Moved Permanently,Thread Group 1-7,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3918,0,0
+1680676884828,3711,HealthCorps Resources,301,Moved Permanently,Thread Group 1-67,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3711,0,0
+1680676884703,3883,HealthCorps Resources,301,Moved Permanently,Thread Group 1-98,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3883,0,0
+1680676885363,3258,HealthCorps Resources,301,Moved Permanently,Thread Group 1-13,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3258,0,0
+1680676885363,3289,Show Donate Now,301,Moved Permanently,Thread Group 1-84,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3289,0,0
+1680676884730,3938,HealthCorps Resources,301,Moved Permanently,Thread Group 1-33,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3938,0,0
+1680676885008,3666,HealthCorps Resources,301,Moved Permanently,Thread Group 1-20,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3666,0,0
+1680676884784,3901,HealthCorps Resources,301,Moved Permanently,Thread Group 1-80,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3901,0,0
+1680676884895,3811,Show Donate Now,301,Moved Permanently,Thread Group 1-69,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3811,0,0
+1680676884910,3814,Show Donate Now,301,Moved Permanently,Thread Group 1-42,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3814,0,0
+1680676885221,3515,Show Donate Now,301,Moved Permanently,Thread Group 1-88,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3515,0,0
+1680676885113,3635,HealthCorps Resources,301,Moved Permanently,Thread Group 1-3,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3635,0,0
+1680676884834,3930,Show Donate Now,301,Moved Permanently,Thread Group 1-56,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3930,0,0
+1680676884997,3780,HealthCorps Resources,301,Moved Permanently,Thread Group 1-57,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3780,0,0
+1680676884815,3974,HealthCorps Resources,301,Moved Permanently,Thread Group 1-1,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3974,0,0
+1680676884934,3861,HealthCorps Resources,301,Moved Permanently,Thread Group 1-92,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3861,0,0
+1680676885416,3462,HealthCorps Resources,301,Moved Permanently,Thread Group 1-55,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3462,0,0
+1680676885368,3522,Show Donate Now,301,Moved Permanently,Thread Group 1-37,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3522,0,0
+1680676885382,3530,HealthCorps Resources,301,Moved Permanently,Thread Group 1-9,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3530,0,0
+1680676885363,3555,Show Donate Now,301,Moved Permanently,Thread Group 1-26,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3555,0,0
+1680676885101,3919,HealthCorps Resources,301,Moved Permanently,Thread Group 1-28,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3919,0,0
+1680676885527,3584,Show Donate Now,301,Moved Permanently,Thread Group 1-82,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3584,0,0
+1680676885510,3639,Show Donate Now,301,Moved Permanently,Thread Group 1-39,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3639,0,0
+1680676885580,3724,HealthCorps Resources,301,Moved Permanently,Thread Group 1-30,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3724,0,0
+1680676885628,3757,Show Donate Now,301,Moved Permanently,Thread Group 1-34,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3757,0,0
+1680676885610,3787,Show Donate Now,301,Moved Permanently,Thread Group 1-85,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3787,0,0
+1680676885833,3564,Show Donate Now,301,Moved Permanently,Thread Group 1-64,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3564,0,0
+1680676885482,3951,Show Donate Now,301,Moved Permanently,Thread Group 1-17,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3951,0,0
+1680676885622,3817,HealthCorps Resources,301,Moved Permanently,Thread Group 1-46,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3817,0,0
+1680676886002,3473,Show Donate Now,301,Moved Permanently,Thread Group 1-75,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3473,0,0
+1680676885708,3795,Show Donate Now,301,Moved Permanently,Thread Group 1-97,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3795,0,0
+1680676885893,3616,Show Donate Now,301,Moved Permanently,Thread Group 1-96,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3616,0,0
+1680676885827,3708,Show Donate Now,301,Moved Permanently,Thread Group 1-99,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3708,0,0
+1680676885921,3706,Show Donate Now,301,Moved Permanently,Thread Group 1-71,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3706,0,0
+1680676885983,3714,HealthCorps Resources,301,Moved Permanently,Thread Group 1-86,text,true,,293,136,100,100,https://healthcorps.org/resources/research/,3714,0,0
+1680676886025,3776,Show Donate Now,301,Moved Permanently,Thread Group 1-24,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3776,0,0
+1680676886187,3620,Show Donate Now,301,Moved Permanently,Thread Group 1-90,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3620,0,0
+1680676886337,3476,Show Donate Now,301,Moved Permanently,Thread Group 1-18,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3476,0,0
+1680676886277,3599,Show Donate Now,301,Moved Permanently,Thread Group 1-60,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3599,0,0
+1680676886037,3851,Show Donate Now,301,Moved Permanently,Thread Group 1-61,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3851,0,0
+1680676886181,3713,Show Donate Now,301,Moved Permanently,Thread Group 1-94,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3713,0,0
+1680676886374,3579,Show Donate Now,301,Moved Permanently,Thread Group 1-51,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3579,0,0
+1680676886009,3961,Show Donate Now,301,Moved Permanently,Thread Group 1-8,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3961,0,0
+1680676886403,3579,Show Donate Now,301,Moved Permanently,Thread Group 1-19,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3579,0,0
+1680676886319,3663,Show Donate Now,301,Moved Permanently,Thread Group 1-31,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3663,0,0
+1680676886463,3525,Show Donate Now,301,Moved Permanently,Thread Group 1-95,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3525,0,0
+1680676886414,3633,Show Donate Now,301,Moved Permanently,Thread Group 1-66,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3633,0,0
+1680676886435,3612,Show Donate Now,301,Moved Permanently,Thread Group 1-58,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3612,0,0
+1680676886420,3666,Show Donate Now,301,Moved Permanently,Thread Group 1-4,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3666,0,0
+1680676886647,3532,Show Donate Now,301,Moved Permanently,Thread Group 1-93,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3532,0,0
+1680676886408,3796,Show Donate Now,301,Moved Permanently,Thread Group 1-11,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3796,0,0
+1680676886203,4025,Show Donate Now,301,Moved Permanently,Thread Group 1-87,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,4025,0,0
+1680676886043,4185,Show Donate Now,301,Moved Permanently,Thread Group 1-2,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,4185,0,0
+1680676886653,3581,Show Donate Now,301,Moved Permanently,Thread Group 1-62,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3581,0,0
+1680676886289,3991,Show Donate Now,301,Moved Permanently,Thread Group 1-16,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3991,0,0
+1680676886608,3690,Show Donate Now,301,Moved Permanently,Thread Group 1-47,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3690,0,0
+1680676886685,3701,Show Donate Now,301,Moved Permanently,Thread Group 1-74,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3701,0,0
+1680676886907,3518,Show Donate Now,301,Moved Permanently,Thread Group 1-40,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3518,0,0
+1680676886886,3595,Show Donate Now,301,Moved Permanently,Thread Group 1-14,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3595,0,0
+1680676886792,3701,Show Donate Now,301,Moved Permanently,Thread Group 1-72,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3701,0,0
+1680676886926,3658,Show Donate Now,301,Moved Permanently,Thread Group 1-23,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3658,0,0
+1680676886939,3651,Show Donate Now,301,Moved Permanently,Thread Group 1-43,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3651,0,0
+1680676887130,3487,Show Donate Now,301,Moved Permanently,Thread Group 1-79,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3487,0,0
+1680676887227,3478,Show Donate Now,301,Moved Permanently,Thread Group 1-100,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3478,0,0
+1680676886940,3852,Show Donate Now,301,Moved Permanently,Thread Group 1-78,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3852,0,0
+1680676887265,3632,Show Donate Now,301,Moved Permanently,Thread Group 1-76,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3632,0,0
+1680676887271,3638,Show Donate Now,301,Moved Permanently,Thread Group 1-70,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3638,0,0
+1680676887379,3609,Show Donate Now,301,Moved Permanently,Thread Group 1-21,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3609,0,0
+1680676887538,3456,Show Donate Now,301,Moved Permanently,Thread Group 1-6,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3456,0,0
+1680676887432,3586,Show Donate Now,301,Moved Permanently,Thread Group 1-25,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3586,0,0
+1680676887602,3434,Show Donate Now,301,Moved Permanently,Thread Group 1-41,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3434,0,0
+1680676887155,3881,Show Donate Now,301,Moved Permanently,Thread Group 1-5,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3881,0,0
+1680676886996,4040,Show Donate Now,301,Moved Permanently,Thread Group 1-91,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,4040,0,0
+1680676887316,3721,Show Donate Now,301,Moved Permanently,Thread Group 1-32,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3721,0,0
+1680676887438,3675,Show Donate Now,301,Moved Permanently,Thread Group 1-50,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3675,0,0
+1680676887497,3622,Show Donate Now,301,Moved Permanently,Thread Group 1-73,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3622,0,0
+1680676887515,3604,Show Donate Now,301,Moved Permanently,Thread Group 1-22,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3604,0,0
+1680676887367,3775,Show Donate Now,301,Moved Permanently,Thread Group 1-15,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3775,0,0
+1680676887515,3689,Show Donate Now,301,Moved Permanently,Thread Group 1-35,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3689,0,0
+1680676887563,3647,Show Donate Now,301,Moved Permanently,Thread Group 1-52,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3647,0,0
+1680676887586,3624,Show Donate Now,301,Moved Permanently,Thread Group 1-77,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3624,0,0
+1680676887891,3319,Show Donate Now,301,Moved Permanently,Thread Group 1-44,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3319,0,0
+1680676887614,3740,Show Donate Now,301,Moved Permanently,Thread Group 1-27,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3740,0,0
+1680676887490,3876,Show Donate Now,301,Moved Permanently,Thread Group 1-49,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3876,0,0
+1680676887575,3797,Show Donate Now,301,Moved Permanently,Thread Group 1-63,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3797,0,0
+1680676888049,3339,Show Donate Now,301,Moved Permanently,Thread Group 1-83,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3339,0,0
+1680676887401,4065,Show Donate Now,301,Moved Permanently,Thread Group 1-45,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,4065,0,0
+1680676887809,3664,Show Donate Now,301,Moved Permanently,Thread Group 1-12,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3664,0,0
+1680676888036,3543,Show Donate Now,301,Moved Permanently,Thread Group 1-53,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3543,0,0
+1680676887831,3787,Show Donate Now,301,Moved Permanently,Thread Group 1-10,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3787,0,0
+1680676887693,3937,Show Donate Now,301,Moved Permanently,Thread Group 1-59,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3937,0,0
+1680676887790,3876,Show Donate Now,301,Moved Permanently,Thread Group 1-48,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3876,0,0
+1680676888210,3571,Show Donate Now,301,Moved Permanently,Thread Group 1-36,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3571,0,0
+1680676888119,3680,Show Donate Now,301,Moved Permanently,Thread Group 1-29,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3680,0,0
+1680676888187,3630,Show Donate Now,301,Moved Permanently,Thread Group 1-68,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3630,0,0
+1680676888285,3604,Show Donate Now,301,Moved Permanently,Thread Group 1-89,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3604,0,0
+1680676888325,3612,Show Donate Now,301,Moved Permanently,Thread Group 1-38,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3612,0,0
+1680676888403,3571,Show Donate Now,301,Moved Permanently,Thread Group 1-81,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3571,0,0
+1680676888297,3683,Show Donate Now,301,Moved Permanently,Thread Group 1-65,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3683,0,0
+1680676888471,3531,Show Donate Now,301,Moved Permanently,Thread Group 1-54,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3531,0,0
+1680676888668,3362,Show Donate Now,301,Moved Permanently,Thread Group 1-33,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3362,0,0
+1680676888685,3513,Show Donate Now,301,Moved Permanently,Thread Group 1-80,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3513,0,0
+1680676888879,3331,Show Donate Now,301,Moved Permanently,Thread Group 1-55,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3331,0,0
+1680676888737,3479,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-88,text,true,,284,127,100,100,https://healthcorps.org/subscribe/,3479,0,0
+1680676888503,3719,Show Donate Now,301,Moved Permanently,Thread Group 1-7,text,true,,285,128,100,100,https://healthcorps.org/donate-now/,3719,0,0
+1680676888539,3726,Show Donate Now,301,Moved Permanently,Thread Group 1-67,text,true,,285,128,99,99,https://healthcorps.org/donate-now/,3726,0,0
+1680676888587,3709,Show Donate Now,301,Moved Permanently,Thread Group 1-98,text,true,,285,128,99,99,https://healthcorps.org/donate-now/,3709,0,0
+1680676888674,3707,Show Donate Now,301,Moved Permanently,Thread Group 1-20,text,true,,285,128,99,99,https://healthcorps.org/donate-now/,3707,0,0
+1680676888724,3670,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-42,text,true,,284,127,99,99,https://healthcorps.org/subscribe/,3670,0,0
+1680676888777,3630,Show Donate Now,301,Moved Permanently,Thread Group 1-57,text,true,,285,128,98,98,https://healthcorps.org/donate-now/,3630,0,0
+1680676888706,3707,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-69,text,true,,284,127,98,98,https://healthcorps.org/subscribe/,3707,0,0
+1680676888796,3623,Show Donate Now,301,Moved Permanently,Thread Group 1-92,text,true,,285,128,97,97,https://healthcorps.org/donate-now/,3623,0,0
+1680676888652,3783,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-84,text,true,,284,127,97,97,https://healthcorps.org/subscribe/,3783,0,0
+1680676888764,3684,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-56,text,true,,284,127,96,96,https://healthcorps.org/subscribe/,3684,0,0
+1680676888749,3735,Show Donate Now,301,Moved Permanently,Thread Group 1-3,text,true,,285,128,95,95,https://healthcorps.org/donate-now/,3735,0,0
+1680676888621,3927,Show Donate Now,301,Moved Permanently,Thread Group 1-13,text,true,,285,128,95,95,https://healthcorps.org/donate-now/,3927,0,0
+1680676888918,3666,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-26,text,true,,284,127,95,95,https://healthcorps.org/subscribe/,3666,0,0
+1680676888891,3701,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-37,text,true,,284,127,94,94,https://healthcorps.org/subscribe/,3701,0,0
+1680676889020,3609,Show Donate Now,301,Moved Permanently,Thread Group 1-28,text,true,,285,128,93,93,https://healthcorps.org/donate-now/,3609,0,0
+1680676889111,3568,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-82,text,true,,284,127,93,93,https://healthcorps.org/subscribe/,3568,0,0
+1680676889149,3573,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-39,text,true,,284,127,92,92,https://healthcorps.org/subscribe/,3573,0,0
+1680676888789,3945,Show Donate Now,301,Moved Permanently,Thread Group 1-1,text,true,,285,128,91,91,https://healthcorps.org/donate-now/,3945,0,0
+1680676889398,3393,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-85,text,true,,284,127,91,91,https://healthcorps.org/subscribe/,3393,0,0
+1680676888912,3885,Show Donate Now,301,Moved Permanently,Thread Group 1-9,text,true,,285,128,90,90,https://healthcorps.org/donate-now/,3885,0,0
+1680676889304,3526,Show Donate Now,301,Moved Permanently,Thread Group 1-30,text,true,,285,128,90,90,https://healthcorps.org/donate-now/,3526,0,0
+1680676889398,3536,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-64,text,true,,284,127,90,90,https://healthcorps.org/subscribe/,3536,0,0
+1680676889475,3486,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-75,text,true,,284,127,89,89,https://healthcorps.org/subscribe/,3486,0,0
+1680676889698,3284,Show Donate Now,301,Moved Permanently,Thread Group 1-86,text,true,,285,128,88,88,https://healthcorps.org/donate-now/,3284,0,0
+1680676889386,3693,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-34,text,true,,284,127,88,88,https://healthcorps.org/subscribe/,3693,0,0
+1680676889510,3575,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-96,text,true,,284,127,87,87,https://healthcorps.org/subscribe/,3575,0,0
+1680676889433,3750,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-17,text,true,,284,127,86,86,https://healthcorps.org/subscribe/,3750,0,0
+1680676889503,3686,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-97,text,true,,284,127,85,85,https://healthcorps.org/subscribe/,3686,0,0
+1680676889535,3670,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-99,text,true,,284,127,84,84,https://healthcorps.org/subscribe/,3670,0,0
+1680676889439,3787,Show Donate Now,301,Moved Permanently,Thread Group 1-46,text,true,,285,128,83,83,https://healthcorps.org/donate-now/,3787,0,0
+1680676889802,3437,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-24,text,true,,284,127,83,83,https://healthcorps.org/subscribe/,3437,0,0
+1680676889627,3692,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-71,text,true,,284,127,82,82,https://healthcorps.org/subscribe/,3692,0,0
+1680676889876,3610,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-60,text,true,,284,127,81,81,https://healthcorps.org/subscribe/,3610,0,0
+1680676889808,3708,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-90,text,true,,284,127,80,80,https://healthcorps.org/subscribe/,3708,0,0
+1680676889982,3589,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-31,text,true,,284,127,79,79,https://healthcorps.org/subscribe/,3589,0,0
+1680676889982,3595,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-19,text,true,,284,127,78,78,https://healthcorps.org/subscribe/,3595,0,0
+1680676889888,3710,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-61,text,true,,284,127,77,77,https://healthcorps.org/subscribe/,3710,0,0
+1680676890048,3556,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-58,text,true,,284,127,76,76,https://healthcorps.org/subscribe/,3556,0,0
+1680676889953,3658,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-51,text,true,,284,127,75,75,https://healthcorps.org/subscribe/,3658,0,0
+1680676889970,3646,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-8,text,true,,284,127,74,74,https://healthcorps.org/subscribe/,3646,0,0
+1680676889813,3803,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-18,text,true,,284,127,74,74,https://healthcorps.org/subscribe/,3803,0,0
+1680676889988,3637,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-95,text,true,,284,127,72,72,https://healthcorps.org/subscribe/,3637,0,0
+1680676890180,3512,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-93,text,true,,284,127,71,71,https://healthcorps.org/subscribe/,3512,0,0
+1680676890204,3516,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-11,text,true,,284,127,70,70,https://healthcorps.org/subscribe/,3516,0,0
+1680676890087,3645,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-4,text,true,,284,127,69,69,https://healthcorps.org/subscribe/,3645,0,0
+1680676890229,3573,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-2,text,true,,284,127,68,68,https://healthcorps.org/subscribe/,3573,0,0
+1680676889894,3934,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-94,text,true,,284,127,67,67,https://healthcorps.org/subscribe/,3934,0,0
+1680676890059,3769,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-66,text,true,,284,127,67,67,https://healthcorps.org/subscribe/,3769,0,0
+1680676890481,3359,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-14,text,true,,284,127,65,65,https://healthcorps.org/subscribe/,3359,0,0
+1680676890229,3658,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-87,text,true,,284,127,64,64,https://healthcorps.org/subscribe/,3658,0,0
+1680676890235,3688,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-62,text,true,,284,127,63,63,https://healthcorps.org/subscribe/,3688,0,0
+1680676890280,3661,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-16,text,true,,284,127,62,62,https://healthcorps.org/subscribe/,3661,0,0
+1680676890591,3385,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-43,text,true,,284,127,61,61,https://healthcorps.org/subscribe/,3385,0,0
+1680676890493,3533,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-72,text,true,,284,127,60,60,https://healthcorps.org/subscribe/,3533,0,0
+1680676890299,3780,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-47,text,true,,284,127,59,59,https://healthcorps.org/subscribe/,3780,0,0
+1680676890426,3696,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-40,text,true,,284,127,58,58,https://healthcorps.org/subscribe/,3696,0,0
+1680676890387,3735,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-74,text,true,,284,127,58,58,https://healthcorps.org/subscribe/,3735,0,0
+1680676890706,3471,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-100,text,true,,284,127,56,56,https://healthcorps.org/subscribe/,3471,0,0
+1680676890585,3685,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-23,text,true,,284,127,55,55,https://healthcorps.org/subscribe/,3685,0,0
+1680676890617,3659,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-79,text,true,,284,127,54,54,https://healthcorps.org/subscribe/,3659,0,0
+1680676890897,3522,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-76,text,true,,284,127,53,53,https://healthcorps.org/subscribe/,3522,0,0
+1680676891018,3407,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-25,text,true,,284,127,52,52,https://healthcorps.org/subscribe/,3407,0,0
+1680676890792,3671,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-78,text,true,,284,127,51,51,https://healthcorps.org/subscribe/,3671,0,0
+1680676890994,3530,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-6,text,true,,284,127,50,50,https://healthcorps.org/subscribe/,3530,0,0
+1680676890909,3712,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-70,text,true,,284,127,49,49,https://healthcorps.org/subscribe/,3712,0,0
+1680676890988,3751,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-21,text,true,,284,127,48,48,https://healthcorps.org/subscribe/,3751,0,0
+1680676891036,3748,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-5,text,true,,284,127,47,47,https://healthcorps.org/subscribe/,3748,0,0
+1680676891037,3747,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-32,text,true,,284,127,47,47,https://healthcorps.org/subscribe/,3747,0,0
+1680676891036,3748,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-91,text,true,,284,127,47,47,https://healthcorps.org/subscribe/,3748,0,0
+1680676891210,3586,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-77,text,true,,284,127,44,44,https://healthcorps.org/subscribe/,3586,0,0
+1680676891119,3683,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-73,text,true,,284,127,43,43,https://healthcorps.org/subscribe/,3683,0,0
+1680676891204,3615,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-35,text,true,,284,127,42,42,https://healthcorps.org/subscribe/,3615,0,0
+1680676891119,3764,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-22,text,true,,284,127,41,41,https://healthcorps.org/subscribe/,3764,0,0
+1680676891142,3741,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-15,text,true,,284,127,41,41,https://healthcorps.org/subscribe/,3741,0,0
+1680676891036,3869,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-41,text,true,,284,127,39,39,https://healthcorps.org/subscribe/,3869,0,0
+1680676891388,3597,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-83,text,true,,284,127,38,38,https://healthcorps.org/subscribe/,3597,0,0
+1680676891114,3915,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-50,text,true,,284,127,37,37,https://healthcorps.org/subscribe/,3915,0,0
+1680676891354,3687,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-27,text,true,,284,127,36,36,https://healthcorps.org/subscribe/,3687,0,0
+1680676891473,3574,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-12,text,true,,284,127,35,35,https://healthcorps.org/subscribe/,3574,0,0
+1680676891210,3883,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-44,text,true,,284,127,34,34,https://healthcorps.org/subscribe/,3883,0,0
+1680676891579,3520,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-53,text,true,,284,127,33,33,https://healthcorps.org/subscribe/,3520,0,0
+1680676891210,3913,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-52,text,true,,284,127,32,32,https://healthcorps.org/subscribe/,3913,0,0
+1680676891618,3564,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-10,text,true,,284,127,31,31,https://healthcorps.org/subscribe/,3564,0,0
+1680676891373,3831,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-63,text,true,,284,127,30,30,https://healthcorps.org/subscribe/,3831,0,0
+1680676891782,3422,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-36,text,true,,284,127,30,30,https://healthcorps.org/subscribe/,3422,0,0
+1680676891666,3550,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-48,text,true,,284,127,28,28,https://healthcorps.org/subscribe/,3550,0,0
+1680676891366,3873,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-49,text,true,,284,127,27,27,https://healthcorps.org/subscribe/,3873,0,0
+1680676891467,3778,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-45,text,true,,284,127,26,26,https://healthcorps.org/subscribe/,3778,0,0
+1680676891630,3697,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-59,text,true,,284,127,25,25,https://healthcorps.org/subscribe/,3697,0,0
+1680676891800,3539,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-29,text,true,,284,127,24,24,https://healthcorps.org/subscribe/,3539,0,0
+1680676891818,3546,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-68,text,true,,284,127,23,23,https://healthcorps.org/subscribe/,3546,0,0
+1680676891937,3460,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-38,text,true,,284,127,22,22,https://healthcorps.org/subscribe/,3460,0,0
+1680676891974,3435,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-81,text,true,,284,127,21,21,https://healthcorps.org/subscribe/,3435,0,0
+1680676892030,3410,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-33,text,true,,284,127,20,20,https://healthcorps.org/subscribe/,3410,0,0
+1680676891889,3589,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-89,text,true,,284,127,19,19,https://healthcorps.org/subscribe/,3589,0,0
+1680676891980,3510,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-65,text,true,,284,127,18,18,https://healthcorps.org/subscribe/,3510,0,0
+1680676892210,3316,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-55,text,true,,284,127,17,17,https://healthcorps.org/subscribe/,3316,0,0
+1680676892002,3524,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-54,text,true,,284,127,17,17,https://healthcorps.org/subscribe/,3524,0,0
+1680676892265,3276,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-67,text,true,,284,127,15,15,https://healthcorps.org/subscribe/,3276,0,0
+1680676892382,3177,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-20,text,true,,284,127,14,14,https://healthcorps.org/subscribe/,3177,0,0
+1680676892198,3385,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-80,text,true,,284,127,13,13,https://healthcorps.org/subscribe/,3385,0,0
+1680676892484,3105,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-3,text,true,,284,127,12,12,https://healthcorps.org/subscribe/,3105,0,0
+1680676892407,3201,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-57,text,true,,284,127,11,11,https://healthcorps.org/subscribe/,3201,0,0
+1680676892419,3215,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-92,text,true,,284,127,10,10,https://healthcorps.org/subscribe/,3215,0,0
+1680676892223,3411,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-7,text,true,,284,127,10,10,https://healthcorps.org/subscribe/,3411,0,0
+1680676892629,3027,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-28,text,true,,284,127,8,8,https://healthcorps.org/subscribe/,3027,0,0
+1680676892548,3114,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-13,text,true,,284,127,7,7,https://healthcorps.org/subscribe/,3114,0,0
+1680676892797,2871,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-9,text,true,,284,127,6,6,https://healthcorps.org/subscribe/,2871,0,0
+1680676892734,2958,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-1,text,true,,284,127,5,5,https://healthcorps.org/subscribe/,2958,0,0
+1680676892296,3402,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-98,text,true,,284,127,4,4,https://healthcorps.org/subscribe/,3402,0,0
+1680676892830,2874,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-30,text,true,,284,127,3,3,https://healthcorps.org/subscribe/,2874,0,0
+1680676892982,2774,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-86,text,true,,284,127,2,2,https://healthcorps.org/subscribe/,2774,0,0
+1680676893226,2530,Sign up for Newsletter ,301,Moved Permanently,Thread Group 1-46,text,true,,284,127,2,2,https://healthcorps.org/subscribe/,2530,0,0
